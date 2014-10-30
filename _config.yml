@@ -1,0 +1,14 @@
+# Site settings
+title: Nathan McLaughlin
+email: nmclaughlin@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the personal Web site of Nathan McLaughlin. It serves as a central repository 
+  for all projects and news. It is also here to collect stories of my brief time on earth 
+  for my now fully-grown babies.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://nathanmclaughlin.com" # the base hostname & protocol for your site
+twitter_username: natcromlech
+github_username:  nathanmclaughlin
+
+# Build settings
+markdown: kramdown
