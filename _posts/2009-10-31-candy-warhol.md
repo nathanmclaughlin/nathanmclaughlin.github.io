@@ -9,8 +9,6 @@ tags:
 - Adulthood
 ---
 
-Section: A Memoir of the Lower Leisure Class
-
 ![Holden as Andy Warhol in 2009](/assets/holden_warhol_2009.jpg)
 
 Another Halloween candied tidal wave has washed over us. Holden is upstairs asleep. Daisy is watching a movie, eating popcorn, with a friend. This is the first Halloween that I have not walked the sidewalks of Candyland with my children. They both chose to pick the fruits of the candied Fall on their own this year. Daisy travelled in a pack of girls with themed and matching costumes. Holden walked alone, positively Warholian in his demeanor.

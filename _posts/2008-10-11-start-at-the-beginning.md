@@ -9,7 +9,6 @@ tags:
 - Childhood
 ---
 
-Section: A Memoir of the Lower Leisure Class
 
 This whole thing is being written down for my babies. Maybe even for their babies, but that might be a bit of hubris. I just want them to know how I got to be who I am, that guy that makes sure they sleep well every night, that dad guy. It’s all goofily morbid, I guess. I just know that it all can slip away so fast, and something exists in all of us that makes us want to try and tell a bit of what mattered to us in our short time in our thin space suits.
 

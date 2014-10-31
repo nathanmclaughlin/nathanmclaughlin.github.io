@@ -8,9 +8,9 @@ tags:
 - Adulthood
 ---
 
-Section: A Memoir of the Lower Leisure Class
-
+<p class="message">
 One night I actually said the right thing at the right time.
+</p>
 
 I went to see The Spits play at Kraftbrau Brewery in Kalamazoo. My companion for the evening was the saucerman, John Kasdorf. I’d been telling those Wood brothers that I was going to see them play for years. Now was my chance to get right with the world and watch them rock it out. I mean, they’ve gone to see me play shows numerous times, so I really did owe them a visit.
 

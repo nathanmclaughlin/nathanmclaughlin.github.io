@@ -1,67 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>A Memoir of the Lower Leisure Class</title>
-    <description>Projects and stories by Nathan McLaughlin</description>
-    <link>http://nathanmclaughlin.com//</link>
-    <atom:link href="http://nathanmclaughlin.com//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 31 Oct 2014 12:19:25 -0400</pubDate>
-    <lastBuildDate>Fri, 31 Oct 2014 12:19:25 -0400</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>Just A Small Piano</title>
-        <description>&lt;p&gt;In this dream I was taking some sort of music class with Holden. The two teachers looked like they were once in Metallica. Holden and I had supplied the musical instruments for the class, and both teachers complained about the inferior sound quality of the gear we provided. They also spent much of the class fiddling and tweaking, trying to get the sound right. After one of them gave up in frustration on the synth, I told them that they could use the piano in the corner.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>A Memoir of the Lower Leisure Class</title>
+ <link href="http://nathanmclaughlin.com/atom.xml" rel="self"/>
+ <link href="http://nathanmclaughlin.com/"/>
+ <updated>2014-10-31T12:19:25-04:00</updated>
+ <id>http://nathanmclaughlin.com</id>
+ <author>
+   <name>Nathan McLaughlin</name>
+   <email>nmclaughlin@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Just A Small Piano</title>
+   <link href="http://nathanmclaughlin.com/memoir/2010/01/19/just-a-small-piano/"/>
+   <updated>2010-01-19T00:00:00-05:00</updated>
+   <id>http://nathanmclaughlin.com/memoir/2010/01/19/just-a-small-piano</id>
+   <content type="html">&lt;p&gt;In this dream I was taking some sort of music class with Holden. The two teachers looked like they were once in Metallica. Holden and I had supplied the musical instruments for the class, and both teachers complained about the inferior sound quality of the gear we provided. They also spent much of the class fiddling and tweaking, trying to get the sound right. After one of them gave up in frustration on the synth, I told them that they could use the piano in the corner.&lt;/p&gt;
 
 &lt;p&gt;One of them sits down at the piano, but just sort of taps lightly on the surface of the keys. I said, &amp;quot;It&amp;#39;s alright. You can use that piano.&amp;quot; He said, &amp;quot;I can&amp;#39;t play this piano. It&amp;#39;s too small.&amp;quot; And that was pretty much it for me. Fed up, I asked, &amp;quot;What? What is the difference? Why can&amp;#39;t you play a piano that size?&amp;quot; His face fell, as he explained to the class, &amp;quot;I can&amp;#39;t play a small piano, because my ex-girlfriend put out a restraining order on me. Happy?!&amp;quot;&lt;/p&gt;
 
 &lt;p&gt;I ended up feeling really really guilty about my callous questioning and just let them continue to tinker with a synthesizer for the rest of the class. The last thing I remember of the dream was Holden and I pushing that small piano down the highway. Also, it turns out that the phrase, &amp;quot;small piano,&amp;quot; so popular in my dream, really just means &amp;quot;upright piano.&amp;quot;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Jan 2010 00:00:00 -0500</pubDate>
-        <link>http://nathanmclaughlin.com//memoir/2010/01/19/just-a-small-piano/</link>
-        <guid isPermaLink="true">http://nathanmclaughlin.com//memoir/2010/01/19/just-a-small-piano/</guid>
-        
-        <category>Holden Faoro</category>
-        
-        <category>Dream</category>
-        
-        <category>Kalamazoo</category>
-        
-        <category>Adulthood</category>
-        
-        
-        <category>memoir</category>
-        
-      </item>
-    
-      <item>
-        <title>Candy Warhol</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/holden_warhol_2009.jpg&quot; alt=&quot;Holden as Andy Warhol in 2009&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Candy Warhol</title>
+   <link href="http://nathanmclaughlin.com/memoir/2009/10/31/candy-warhol/"/>
+   <updated>2009-10-31T00:00:00-04:00</updated>
+   <id>http://nathanmclaughlin.com/memoir/2009/10/31/candy-warhol</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/holden_warhol_2009.jpg&quot; alt=&quot;Holden as Andy Warhol in 2009&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Another Halloween candied tidal wave has washed over us. Holden is upstairs asleep. Daisy is watching a movie, eating popcorn, with a friend. This is the first Halloween that I have not walked the sidewalks of Candyland with my children. They both chose to pick the fruits of the candied Fall on their own this year. Daisy travelled in a pack of girls with themed and matching costumes. Holden walked alone, positively Warholian in his demeanor.&lt;/p&gt;
 
 &lt;p&gt;Sitting on the porch after everyone has assumed their nighttime positions, I realize how these sweet children show me the way. Their kindness and creativity and bravery, like a note by an alarm clock, remind me who I need to be.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 31 Oct 2009 00:00:00 -0400</pubDate>
-        <link>http://nathanmclaughlin.com//memoir/2009/10/31/candy-warhol/</link>
-        <guid isPermaLink="true">http://nathanmclaughlin.com//memoir/2009/10/31/candy-warhol/</guid>
-        
-        <category>Holden Faoro</category>
-        
-        <category>Daisy McLaughlin</category>
-        
-        <category>Kalamazoo</category>
-        
-        <category>Adulthood</category>
-        
-        
-        <category>memoir</category>
-        
-      </item>
-    
-      <item>
-        <title>The Night They Drove Old Brimley Down</title>
-        <description>&lt;p class=&quot;message&quot;&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Night They Drove Old Brimley Down</title>
+   <link href="http://nathanmclaughlin.com/memoir/2008/11/26/the-night-they-drove-old-brimley-down/"/>
+   <updated>2008-11-26T00:00:00-05:00</updated>
+   <id>http://nathanmclaughlin.com/memoir/2008/11/26/the-night-they-drove-old-brimley-down</id>
+   <content type="html">&lt;p class=&quot;message&quot;&gt;
 One night I actually said the right thing at the right time.
 &lt;/p&gt;
 
@@ -80,52 +62,30 @@ One night I actually said the right thing at the right time.
 &lt;p&gt;She left, but later on, while The Spits were playing, she kept “moshing” and “slamming” into me, still trying to get up to that precious spot. I stood my ground at that point totally on principle.&lt;/p&gt;
 
 &lt;p&gt;But that shining moment, that shining moment where I said and did the right thing at the right time, I don’t think I’ll ever have it that good again.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Nov 2008 00:00:00 -0500</pubDate>
-        <link>http://nathanmclaughlin.com//memoir/2008/11/26/the-night-they-drove-old-brimley-down/</link>
-        <guid isPermaLink="true">http://nathanmclaughlin.com//memoir/2008/11/26/the-night-they-drove-old-brimley-down/</guid>
-        
-        <category>John Kasdorf</category>
-        
-        <category>Kalamazoo</category>
-        
-        <category>Adulthood</category>
-        
-        
-        <category>memoir</category>
-        
-      </item>
-    
-      <item>
-        <title>Start at the Beginning</title>
-        <description>&lt;p&gt;This whole thing is being written down for my babies. Maybe even for their babies, but that might be a bit of hubris. I just want them to know how I got to be who I am, that guy that makes sure they sleep well every night, that dad guy. It’s all goofily morbid, I guess. I just know that it all can slip away so fast, and something exists in all of us that makes us want to try and tell a bit of what mattered to us in our short time in our thin space suits.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Start at the Beginning</title>
+   <link href="http://nathanmclaughlin.com/memoir/2008/10/11/start-at-the-beginning/"/>
+   <updated>2008-10-11T00:00:00-04:00</updated>
+   <id>http://nathanmclaughlin.com/memoir/2008/10/11/start-at-the-beginning</id>
+   <content type="html">&lt;p&gt;This whole thing is being written down for my babies. Maybe even for their babies, but that might be a bit of hubris. I just want them to know how I got to be who I am, that guy that makes sure they sleep well every night, that dad guy. It’s all goofily morbid, I guess. I just know that it all can slip away so fast, and something exists in all of us that makes us want to try and tell a bit of what mattered to us in our short time in our thin space suits.&lt;/p&gt;
 
 &lt;p&gt;I should start by telling them that I’m listening to The Minutemen. That would actually tell them something about what moves me and why the Econoline continues to haunt my sleep. I guess I am starting that way. Let me change the focus. Hello, babies. Hello angels. Smart. Beautiful. Kind and healthy. Your father is going to tell you as much as he can of his life, starting with his most remote, unknowable memory. This is appropriate for someone who barely remembers what happened three hours ago. So, in an apartment on Pine Street in San Francisco, California in the Autumn of Love, I entered the world of bright lights and air. One of you has hopefullly inherited a painting of a UFO over the SF skyline. I will explain more about that later. For now, just know that you should hold it close for a while longer. That morning I almost arrived without making a dent in the paper carapace of our government. We we were so close in those early hours, but I ended up leaving the warmth of home for the realm of doctors and birth certificates and social security numbers soon after being born.&lt;/p&gt;
 
 &lt;p&gt;As you will soon learn, my biological father was sort of a selfish and well-meaning chicken. I only entered the system because he was unable to cut the cord. He was later able to conveniently ignore the cord that should have tied him to me and my sisters, but that’s kind of telling too much early on. I mostly want to elaborate on my birth, because it allows me to tell the story of my mom, your grammie, the way I think it should be told, truthfully and with the sort of awe that you may never feel. For that reason, I am guessing that this will be the longest chapter in the story of my life.&lt;/p&gt;
 
 &lt;p&gt;I have many friends who are now all old and stuff, but they really don’t understand the world from 1964 to 1967. They want to, they all think they do, but they don’t. They have paid their dues at the magazine racks and record stores and thrift stores, and they’ve looked for a long while at the backs of their own heads, but they continue to miss the mark.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 11 Oct 2008 00:00:00 -0400</pubDate>
-        <link>http://nathanmclaughlin.com//memoir/2008/10/11/start-at-the-beginning/</link>
-        <guid isPermaLink="true">http://nathanmclaughlin.com//memoir/2008/10/11/start-at-the-beginning/</guid>
-        
-        <category>Mary Ann Toledo</category>
-        
-        <category>Kenneth McLaughlin</category>
-        
-        <category>San Francisco</category>
-        
-        <category>Childhood</category>
-        
-        
-        <category>memoir</category>
-        
-      </item>
-    
-      <item>
-        <title>Example content</title>
-        <description>&lt;div class=&quot;message&quot;&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Example content</title>
+   <link href="http://nathanmclaughlin.com/2007/02/07/example-content/"/>
+   <updated>2007-02-07T00:00:00-05:00</updated>
+   <id>http://nathanmclaughlin.com/2007/02/07/example-content</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
 
@@ -263,13 +223,8 @@ One night I actually said the right thing at the right time.
 &lt;hr&gt;
 
 &lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 Feb 2007 00:00:00 -0500</pubDate>
-        <link>http://nathanmclaughlin.com//2007/02/07/example-content/</link>
-        <guid isPermaLink="true">http://nathanmclaughlin.com//2007/02/07/example-content/</guid>
-        
-        
-      </item>
-    
-  </channel>
-</rss>
+</content>
+ </entry>
+ 
+
+</feed>

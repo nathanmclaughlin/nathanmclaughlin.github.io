@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 I am currently moving my personal site from standard hosting and a Drupal 7 installation to GitHub pages. I no longer have enough time to maintain Drupal and have no need for the awesome features it provides.
