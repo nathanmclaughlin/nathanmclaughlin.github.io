@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         redcarpet #github wants kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -7,8 +7,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Memoir of the Lower Leisure Class
-tagline:          'My Brief Time on Earth'
+title:            'Cocaine Sailboat Party'
+tagline:          'A Memoir of the Lower Leisure Class'
 description:      'Projects and stories by Nathan McLaughlin'
 url:              http://nathanmclaughlin.com
 baseurl:          /
