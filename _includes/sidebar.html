@@ -7,6 +7,7 @@
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
+      <p class="lead">{{ site.tagline }}</p>
     </div>
 
     <nav class="sidebar-nav">
@@ -27,7 +28,7 @@
       {% endfor %}
 
       <a class="sidebar-nav-item" href="{{ site.author.url }}">Twitter</a>
-      <a class="sidebar-nav-item" href="{{ site.author.email }}">Email</a>
+      <a class="sidebar-nav-item" href="mailto:{{ site.author.email }}">Email</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
