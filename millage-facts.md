@@ -35,7 +35,9 @@ Since special education services are largely required by federal and state laws,
 
 *Q: How can I find out where to vote?*
 
-*A:* You can find out where you vote by contacting the clerk's office in the city or township where you reside. For Kalamazoo voters these offices are as follows: 
+*A:* You can look up where you vote at the [Michigan Voter Information Center]
+
+You can also contact the clerk's office in the city or township where you reside. For Kalamazoo voters these offices are as follows: 
 
 * City of Kalamazoo: 337-8793
 * Oshtemo Township: 216-5224
@@ -58,3 +60,5 @@ Absentee ballots must be requested from the city or township clerk where you res
 ## Please Vote
 Please vote in this election. The polls will be open from 7:00 AM to 8:00 PM on Tuesday, May 5, 2015.
 
+
+[Michigan Voter Information Center]: https://vote.michigan.gov/mvic/
