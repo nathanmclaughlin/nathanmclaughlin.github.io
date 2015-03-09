@@ -11,7 +11,7 @@ On Tuesday, May 5, 2015, voters in Kalamazoo County will be asked to vote on a 6
 
 ## Background
 
-Special education services in the county are substantially underfunded, which creates a great deal of pressure on the general education budgets of local school districts. At one time all special education services were funded through dedicated special education sources. However, these sources have not kept up with special education needs 
+Special education services in the county are substantially underfunded, which creates a great deal of pressure on the general education budgets of local school districts. At one time all special education services were funded through dedicated special education sources. However, these sources have not kept up with special education needs.
 
 Since special education services are largely required by federal and state laws, Kalamazo County school districts have had to fund these otherwise unfunded costs out of their limited operating budgets. Districts across Kalamazoo County are now funding approximately $11 million of special education costs from their operating budgets. Kalamazoo Public Schools alone is funding over $5 million from its operating budget, which reduces programming for general education students.
 
