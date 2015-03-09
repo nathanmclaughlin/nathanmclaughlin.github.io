@@ -1,5 +1,5 @@
 ---
-title: Facts about the May 5, Special Education Millage Vote
+title: Special Education Millage Vote: May 5, 2015
 layout: page  
 tags: 
 - Kalamazoo Public Schools
